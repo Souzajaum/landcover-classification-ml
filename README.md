@@ -1,1 +1,1 @@
-# land_uses_analysis
+landcover-classification-ml
